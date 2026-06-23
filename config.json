@@ -1,0 +1,7 @@
+{
+    "layers": [784, 512, 256, 10],
+    "epochs": 10,
+    "random_rate": 1.0,
+    "skip_rate": 0.1,
+    "learning_rate": 0.001
+}
